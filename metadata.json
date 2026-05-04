@@ -1,0 +1,5 @@
+{
+  "name": "InBody Data Visualizer",
+  "description": "A dashboard to visualize InBody test results over time.",
+  "requestFramePermissions": []
+}
